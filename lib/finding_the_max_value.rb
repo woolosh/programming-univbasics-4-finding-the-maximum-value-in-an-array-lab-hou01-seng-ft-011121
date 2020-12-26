@@ -1,9 +1,10 @@
-def find_max_value(array)
+def find_max_value(scale)
 
   count = 0 
   
-  while array[count] < array[count].length do
-  return array[count]
+  max
+  while scale[count] < scale[count].length do
+  return scale[count]
   count += l 
 end
 
