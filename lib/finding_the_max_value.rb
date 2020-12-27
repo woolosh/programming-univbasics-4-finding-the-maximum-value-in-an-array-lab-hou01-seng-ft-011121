@@ -6,10 +6,11 @@ def find_max_value(scale)
   
   scale = [2,3,4,5]
   max_value = -1
-  binding.pry
+
   while scale[count] < scale.length do
     if max_value < scale[count]
     max_value = scale[count]
+      binding.pry
     count += 1 
   end
   
