@@ -13,7 +13,7 @@ def find_max_value(scale)
     max_value = scale[count]
     else count += 1 
     
-end
+  end
   
   max_value
 
