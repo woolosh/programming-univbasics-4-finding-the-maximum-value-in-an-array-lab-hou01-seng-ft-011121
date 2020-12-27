@@ -17,6 +17,6 @@ def find_max_value(scale)
     
   end
   
-  max_value
+  return max_value
 
 end
