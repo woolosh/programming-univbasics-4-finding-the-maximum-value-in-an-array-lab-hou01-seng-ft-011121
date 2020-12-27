@@ -12,4 +12,6 @@ def find_max_value(scale)
   count += l 
 end
 
+return max_value
+
 end
