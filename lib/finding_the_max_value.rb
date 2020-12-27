@@ -4,7 +4,8 @@ def find_max_value(scale)
   
   max_value = -1
   while scale[count] < scale[count].length do
-  return scale[count]
+  if max_value < scale[count]
+  max_value = scale[count]
   count += l 
 end
 
