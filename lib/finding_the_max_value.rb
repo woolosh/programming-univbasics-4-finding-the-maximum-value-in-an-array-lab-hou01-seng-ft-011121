@@ -10,8 +10,6 @@ def find_max_value(scale)
     count += 1 
   end
   
-end
-
-max_value
+return max_value
 
 end
