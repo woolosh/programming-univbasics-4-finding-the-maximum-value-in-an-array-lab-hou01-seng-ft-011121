@@ -11,10 +11,13 @@ def find_max_value(scale)
   while scale[count] < scale.length do
     if max_value < scale[count]
     return max_value = scale[count]
-  end
-    count += 1 
+    
   end
   
-max_value
+    count += 1 
+    
+  end
+  
+  max_value
 
 end
