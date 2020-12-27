@@ -10,7 +10,7 @@ def find_max_value(scale)
 
   while scale[count] < scale.length do
     if max_value < scale[count]
-    max_value = scale[count]
+    print max_value = scale[count]
     else count += 1 
     
   end
